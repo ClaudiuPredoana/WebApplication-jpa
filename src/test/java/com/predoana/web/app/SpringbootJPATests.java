@@ -1,7 +1,7 @@
 package com.predoana.web.app;
 
 import com.predoana.web.app.security.entities.User;
-import com.predoana.web.app.repository.UserRepository;
+import com.predoana.web.app.security.repositories.UserRepository;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
