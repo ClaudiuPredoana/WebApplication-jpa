@@ -1,6 +1,6 @@
 package com.predoana.web.app;
 
-import com.predoana.web.app.entity.User;
+import com.predoana.web.app.security.entities.User;
 import com.predoana.web.app.repository.UserRepository;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
